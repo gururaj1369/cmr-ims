@@ -210,8 +210,8 @@
 	.gt_top_element ul li:last-child{border-bottom: 0px;}
 	.gt_menu_bg{text-align: center;}
 	.gt_logo{width: 100%;}
-	.gt_cart_wrap,.gt_search_wrap,.gt_navigation{float: none;display: inline-block;}
-	.gt_navigation{padding: 0px;right: 0px;top: 12px;}
+	.gt_cart_wrap,.gt_search_wrap,.gt_navigation{display: inline-block;}
+	.gt_navigation{padding: 0px;right: 0px;}
 	.gt_navigation>ul{right: -85px;top: 136%;}
 	.gt_cart_wrap .gt_cart_list{right: -174px;}
 	.gt_comment_wrap figure{width: 100%;text-align: center;margin-bottom: 15px;}
